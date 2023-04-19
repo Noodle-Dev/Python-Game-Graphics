@@ -7,7 +7,8 @@ graphics engine with integrated physics!
 ~You must have installed Python 3.9 and PIP in its most recent version
 
 -Simply go to the console and type the command:
-   ### Pip install pygame
-
+'''
+pip install pygame
+'''
 ![alt text](https://raw.githubusercontent.com/Noodle-Dev/Python-Game-Graphics/main/Demostrarion/GameDemo.png)
 
